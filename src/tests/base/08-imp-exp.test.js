@@ -51,6 +51,4 @@ describe('Pruebas en funciones de Héroes', () => {
 
     })
 
-
-
 })
